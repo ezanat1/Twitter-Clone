@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 * User can compose a tweet.
 * User can favorite a tweet.
 * User can retweet a tweet.
-* When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 140) (2pts)
+* When composing a tweet, user sees a countdown for the number of characters remaining for the tweet.
 * User can view their profile in a profile tab.
 * User sees embedded images in tweet if available.
 
